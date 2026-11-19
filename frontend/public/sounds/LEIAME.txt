@@ -1,0 +1,1 @@
+Sons são gerados com Web Audio (src/services/som.ts). Arquivos opcionais podem ser colocados aqui.

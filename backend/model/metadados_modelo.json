@@ -1,0 +1,18 @@
+{
+    "experimento": "E8",
+    "arquitetura": "EfficientNetB0",
+    "treinamento": "Transfer Learning + Fine-Tuning",
+    "pesos_pre_treinados": "ImageNet",
+    "entrada": [
+        128,
+        128,
+        3
+    ],
+    "formato": "RGB",
+    "entrada_externa": "pixels normalizados entre 0 e 1",
+    "quantidade_classes": 12,
+    "f1_macro_validacao": 0.9434424235321607,
+    "f1_macro_teste": 0.9199525757287154,
+    "acuracia_teste": 0.9430543572044866,
+    "fingerprint_dados": "5e8a02b155a95e6091820066e82419636f1951de3a654b321cf7aa7b2f8ab7c4"
+}

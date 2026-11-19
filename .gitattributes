@@ -1,0 +1,10 @@
+# Scripts do macOS/Linux precisam de fim de linha LF (senão o bash falha com "\r")
+*.sh text eol=lf
+# Scripts do Windows ficam com CRLF
+*.bat text eol=crlf
+# Binários
+*.keras binary
+*.task binary
+*.wasm binary
+*.png binary
+*.webp binary

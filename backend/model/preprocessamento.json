@@ -1,0 +1,26 @@
+{
+  "altura": 128,
+  "largura": 128,
+  "canais": 3,
+  "formato_cor": "RGB",
+  "biblioteca_leitura": "tf.io.decode_image(channels=3, expand_animations=False)",
+  "interpolacao_redimensionamento": "bilinear",
+  "normalizacao": "float32 / 255.0",
+  "normalizacao_dentro_do_modelo": false,
+  "ordem_classes": [
+    "battery",
+    "biological",
+    "brown-glass",
+    "cardboard",
+    "clothes",
+    "green-glass",
+    "metal",
+    "paper",
+    "plastic",
+    "shoes",
+    "trash",
+    "white-glass"
+  ],
+  "seed": 42,
+  "numero_classes": 12
+}

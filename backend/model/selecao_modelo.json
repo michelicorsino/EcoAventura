@@ -1,0 +1,19 @@
+{
+    "criterio": "Maior F1 macro de validação; desempate pelo menor número de parâmetros",
+    "vencedor": "E8",
+    "f1_macro_validacao": 0.9434424235321607,
+    "parametros": 4215087,
+    "checkpoint": "/kaggle/working/CNN_Garbage/experimentos/E8/melhor_modelo.keras",
+    "fingerprint_dados": "5e8a02b155a95e6091820066e82419636f1951de3a654b321cf7aa7b2f8ab7c4",
+    "experimentos_considerados": [
+        "E0",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+  "_revisao": "Textos educativos curtos. Devem ser revisados pelas desenvolvedoras/orientação antes do uso com crianças. Cores de lixeiras: Resolução CONAMA 275/2001.",
+  "battery": {
+    "dica": "Pilhas e baterias têm metais que podem fazer mal à natureza.",
+    "destino": "Nunca jogue no lixo comum! Leve a um ponto de coleta, como lojas e supermercados."
+  },
+  "biological": {
+    "dica": "Restos de frutas, verduras e cascas são resíduos orgânicos.",
+    "destino": "Eles podem virar adubo na composteira e ajudar plantas a crescer!"
+  },
+  "brown-glass": {
+    "dica": "Garrafas de vidro marrom podem ser derretidas e viram vidro novo.",
+    "destino": "Vai na lixeira verde. Peça ajuda a um adulto se o vidro estiver quebrado."
+  },
+  "cardboard": {
+    "dica": "Caixas de papelão são feitas de fibras de árvores.",
+    "destino": "Desmonte a caixa e coloque na lixeira azul. Assim economizamos árvores!"
+  },
+  "clothes": {
+    "dica": "Roupas que não servem mais podem ganhar uma nova vida.",
+    "destino": "Doe para quem precisa, troque com amigos ou leve a um brechó."
+  },
+  "green-glass": {
+    "dica": "O vidro pode ser reciclado muitas e muitas vezes!",
+    "destino": "Vai na lixeira verde. Peça ajuda a um adulto se o vidro estiver quebrado."
+  },
+  "metal": {
+    "dica": "Latinhas de metal voltam a ser latinhas em poucas semanas.",
+    "destino": "Lave rapidinho e coloque na lixeira amarela."
+  },
+  "paper": {
+    "dica": "Folhas, jornais e revistas podem virar papel novo.",
+    "destino": "Coloque na lixeira azul. Papel sujo de comida vai no lixo comum."
+  },
+  "plastic": {
+    "dica": "O plástico demora centenas de anos para sumir da natureza.",
+    "destino": "Lave e coloque na lixeira vermelha. Melhor ainda: use menos plástico!"
+  },
+  "shoes": {
+    "dica": "Calçados em bom estado podem ser usados por outra pessoa.",
+    "destino": "Doe, conserte ou procure um ponto de coleta de calçados."
+  },
+  "trash": {
+    "dica": "Rejeito, ou lixo comum, é o que não dá para reciclar, como fralda e papel higiênico usados.",
+    "destino": "Vai na lixeira cinza. Quanto menos lixo comum, melhor para o planeta!"
+  },
+  "white-glass": {
+    "dica": "Potes e garrafas de vidro transparente são recicláveis.",
+    "destino": "Vai na lixeira verde. Lave antes e cuidado com as pontas!"
+  }
+}

@@ -1,0 +1,13 @@
+,battery,biological,brown-glass,cardboard,clothes,green-glass,metal,paper,plastic,shoes,trash,white-glass
+battery,129,0,0,1,0,3,4,2,0,0,0,2
+biological,0,144,1,0,0,0,1,0,0,1,0,0
+brown-glass,0,0,82,1,0,1,4,0,0,0,1,2
+cardboard,0,0,0,120,0,0,3,6,2,0,0,2
+clothes,0,0,0,0,789,0,0,0,0,10,0,0
+green-glass,0,0,0,0,0,85,2,0,2,0,0,2
+metal,0,0,1,0,0,0,106,2,2,1,0,3
+paper,0,1,0,4,2,0,3,145,2,1,0,0
+plastic,0,0,0,0,2,0,6,3,109,1,1,7
+shoes,0,1,1,1,2,1,0,0,0,289,0,0
+trash,1,0,0,0,4,0,0,1,2,1,95,0
+white-glass,0,0,1,1,0,0,6,1,11,2,0,93

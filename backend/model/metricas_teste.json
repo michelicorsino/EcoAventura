@@ -1,0 +1,12 @@
+{
+    "modelo": "E8",
+    "checkpoint": "/kaggle/working/CNN_Garbage/experimentos/E8/melhor_modelo.keras",
+    "fingerprint_dados": "5e8a02b155a95e6091820066e82419636f1951de3a654b321cf7aa7b2f8ab7c4",
+    "quantidade_imagens": 2318,
+    "acuracia": 0.9430543572044866,
+    "precisao_macro": 0.9244238902817047,
+    "recall_macro": 0.9171358650649718,
+    "f1_macro": 0.9199525757287154,
+    "f1_macro_validacao_selecao": 0.9434424235321607,
+    "observacao": "Avaliação final independente. Não ajustar o modelo com base no teste."
+}

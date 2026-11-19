@@ -1,0 +1,18 @@
+{
+  "som": true,
+  "modoDemonstracao": false,
+  "mostrarCamera": true,
+  "controleFacial": "piscadas",
+  "janelaDuplaMs": 900,
+  "cooldownMs": 600,
+  "preparoMs": 1000,
+  "duracaoMinPiscadaMs": 150,
+  "gestoConfirmacao": "olhos",
+  "duracaoConfirmacaoMs": 1000,
+  "sensibilidadeCabeca": 1,
+  "controleMao": "pinca",
+  "tempoPermanenciaMs": 1200,
+  "suavizacaoCursor": 0.5,
+  "avancoAutomaticoMs": 0,
+  "fpsVisao": 20
+}

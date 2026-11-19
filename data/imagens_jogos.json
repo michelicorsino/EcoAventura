@@ -1,0 +1,969 @@
+{
+  "descricao": "Base complementar dos jogos EcoAventura. Imagens NÃO usadas no treino/validação/teste da CNN E8.",
+  "regra": "Não usar estas imagens para alterar os pesos da CNN sem registrar um novo experimento.",
+  "rotulo_verdadeiro": "Definido pela pasta e conferido manualmente (campo 'revisada').",
+  "atualizado_em": "2026-11-17T23:46:00+00:00",
+  "total": 48,
+  "imagens": [
+    {
+      "id": "battery_001",
+      "classe": "battery",
+      "caminho": "battery/battery_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 72,
+      "sha256": "482aae6b2e2ea74ce8da440484fe1b53f4300e91bde25a36f99fefdd2a8ba94f",
+      "dhash": "1101101010010100101001101101101010011110101110001110100000100111",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "battery_002",
+      "classe": "battery",
+      "caminho": "battery/battery_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 102,
+      "altura": 72,
+      "sha256": "1277bf75f57963e60c1463c13160c44106be541113afc544d91f388d16a07b72",
+      "dhash": "0101110010111000101101101101111010101100110010000111100000111000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "battery_003",
+      "classe": "battery",
+      "caminho": "battery/battery_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 85,
+      "sha256": "ce16fad6e71114ef275f57979599a20b74e16ddc1488b1a350e7faf41938fe2c",
+      "dhash": "1010011110111001111111001110000011100001111001001111100111000111",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 13,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "battery_004",
+      "classe": "battery",
+      "caminho": "battery/battery_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 93,
+      "altura": 94,
+      "sha256": "3eb7c0fc06b7fe44d563e56f66e69e18173960324ede634f6f77ad42d2ecbd24",
+      "dhash": "1010000010000100000111000111110011011100110000001100000001000000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 12,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "biological_001",
+      "classe": "biological",
+      "caminho": "biological/biological_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 115,
+      "altura": 72,
+      "sha256": "1db23601a09a37d702eb88754442cc48715414c5fd94a1e16a173eafb308db53",
+      "dhash": "1101100110000101101001001011011110110110100100010011100100100010",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "biological_002",
+      "classe": "biological",
+      "caminho": "biological/biological_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 105,
+      "altura": 72,
+      "sha256": "8a3fa2f6f66c2c156d2e0b220427a05b92fdb88b124fa1be447d4ed5bad4ba1e",
+      "dhash": "0000110110011110000111100100111001000110110001111100011111100001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 12,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "biological_003",
+      "classe": "biological",
+      "caminho": "biological/biological_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 115,
+      "altura": 96,
+      "sha256": "f33be1720958f1caad4c19daae27786e55e41679e7fdd86d07fe3cf8b79f4b84",
+      "dhash": "1110100100001101100001010001001100111011001010100110111010101001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "biological_004",
+      "classe": "biological",
+      "caminho": "biological/biological_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 105,
+      "altura": 96,
+      "sha256": "5d0a23c1d84a9ca73601da8ecadb59db7f2f8052f68118fb57a53f0cf186f90e",
+      "dhash": "0101011000101000001100010000011100011001001110011001100111000100",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "brown-glass_001",
+      "classe": "brown-glass",
+      "caminho": "brown-glass/brown-glass_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 73,
+      "sha256": "1dc81864fb35b6f6dd3e5b3e92c493db4ac683f068c275b9aa17213479149ad6",
+      "dhash": "0011001101100001110100101001001011110010011100110111000101110000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 13,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "brown-glass_002",
+      "classe": "brown-glass",
+      "caminho": "brown-glass/brown-glass_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 72,
+      "sha256": "1131895570a1d885e435ea189c3ac262c9424eb264fdfbc5cdaa54451772a9a3",
+      "dhash": "0111000011111000011010010110100001101001011010011110100001111000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 10,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "brown-glass_003",
+      "classe": "brown-glass",
+      "caminho": "brown-glass/brown-glass_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 81,
+      "sha256": "dce12b3cbb5910ba39a38e72338c9c9c1b4c4e8059ad2da3659bd30a3abaaaed",
+      "dhash": "1110011011101111110010011000100010011100100110001101100110110110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "brown-glass_004",
+      "classe": "brown-glass",
+      "caminho": "brown-glass/brown-glass_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 88,
+      "sha256": "aa44680d3e60343ec54893de4fde7f888f68b833200df1c07ce3ff5a81c7b73e",
+      "dhash": "0000011001110001111010011110111011000000010000010001001101011001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "cardboard_001",
+      "classe": "cardboard",
+      "caminho": "cardboard/cardboard_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 72,
+      "sha256": "faea391a1c1b8e422e4c0fe106deee2b5e9374790b1f2508c102254a0a6e4966",
+      "dhash": "0100110010011100100110001100000111100100111000001100001111100100",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "cardboard_002",
+      "classe": "cardboard",
+      "caminho": "cardboard/cardboard_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 96,
+      "altura": 72,
+      "sha256": "ff8cf5eaaed6b3f326550a08114cd5b3cdafedb7ae4171941880e102e546e71a",
+      "dhash": "1000011000011100111100011100011010111100100000000010000000000100",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "cardboard_003",
+      "classe": "cardboard",
+      "caminho": "cardboard/cardboard_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 92,
+      "sha256": "1f2053c97805aff67912c0b3cd3ba56b6aef42602ed1908cf3691497b0affbd8",
+      "dhash": "1011010010001110110010110101110100010001001000000011000110110001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 12,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "cardboard_004",
+      "classe": "cardboard",
+      "caminho": "cardboard/cardboard_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 96,
+      "altura": 92,
+      "sha256": "0a3b2a20db2c654f903b7f4e0dbf05cf3b5c7752cd2b51272f9a51778e75ae64",
+      "dhash": "0001111000110111000100111100111011100111001100110000110010000111",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "clothes_001",
+      "classe": "clothes",
+      "caminho": "clothes/clothes_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 73,
+      "sha256": "22208eaaf1596f44c1113daa5cef1d28e1639573f7b1fae6db528242d936b1e8",
+      "dhash": "0011111001011000011110101101011110111100100111101100110011101010",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 18,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "clothes_002",
+      "classe": "clothes",
+      "caminho": "clothes/clothes_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 97,
+      "altura": 73,
+      "sha256": "0e51a44236dedb7de69690c458b66f078caefc726ab87454bedef343bf764f39",
+      "dhash": "1110001011001010110000011000111010000111100011110000111000001110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 11,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "clothes_003",
+      "classe": "clothes",
+      "caminho": "clothes/clothes_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 87,
+      "sha256": "0caf807e0f3310d7fb5a400da7bf2ca15d59f1e62617344899dca79903bdd55e",
+      "dhash": "0111000011100110110000111100111111000011110100111100000011000000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "clothes_004",
+      "classe": "clothes",
+      "caminho": "clothes/clothes_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 97,
+      "altura": 87,
+      "sha256": "ce96ac7b4ee9e666d6c25bf89d37cca4dcf47f0a6ebaa7c0141b9de4b630aaa9",
+      "dhash": "1110001111100011111100111110010111001111100101110010110000011000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "green-glass_001",
+      "classe": "green-glass",
+      "caminho": "green-glass/green-glass_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 115,
+      "altura": 74,
+      "sha256": "2ea2317e5af2d885e55d967aa265939028ea3e64a167eb68cdfa3ccba898c72c",
+      "dhash": "1011001100110010011000000111001001110010011100010110101001101010",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 12,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "green-glass_002",
+      "classe": "green-glass",
+      "caminho": "green-glass/green-glass_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 101,
+      "altura": 74,
+      "sha256": "3954bdeb37e8232d090440baac7afa345095e4fabcbae3f13dcbf43757b1f21a",
+      "dhash": "0110010001101100111001001101110011011100111100001111000011101001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 10,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "green-glass_003",
+      "classe": "green-glass",
+      "caminho": "green-glass/green-glass_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 114,
+      "altura": 80,
+      "sha256": "e7b6306b6942e4ee484b6d56abb0c7f8175679090626f7c85aa7bbf75f18d5c9",
+      "dhash": "0011000110111011111010101110110011101000101001011001110011011000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "green-glass_004",
+      "classe": "green-glass",
+      "caminho": "green-glass/green-glass_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 101,
+      "altura": 92,
+      "sha256": "f036a551d7213bc325223910f29b9509a2c76714b438fc9e9ec6e4436c9c63cf",
+      "dhash": "0001111000000111000111101111110010111000101000101000000110001110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "metal_001",
+      "classe": "metal",
+      "caminho": "metal/metal_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 73,
+      "sha256": "c64b5df7f353b85db0681d53063a04d885999767de575fc61635740a2587d71b",
+      "dhash": "1011000000110000001101001110100011000011111000110100100111111001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "metal_002",
+      "classe": "metal",
+      "caminho": "metal/metal_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 106,
+      "altura": 73,
+      "sha256": "2bd7ac2da0b75b2f2f8c421b209c574491805dbb27ebbb1380614a328af8924b",
+      "dhash": "1111000000110011000001011010010000100100001001010010011010100110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 13,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "metal_003",
+      "classe": "metal",
+      "caminho": "metal/metal_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 81,
+      "sha256": "f35132230b9587b905666a09c90e2777ba0887419d6f1e8a87e26036f93e37be",
+      "dhash": "1010010111011000010011111000111110011111110001101100011011100100",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "metal_004",
+      "classe": "metal",
+      "caminho": "metal/metal_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 106,
+      "altura": 81,
+      "sha256": "9f67f9cb33593e23a2112e8118fac356dbbaa90e379495dfe89672e51945bc61",
+      "dhash": "1101101111000111001001111011010000010110000010111010110111101000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "paper_001",
+      "classe": "paper",
+      "caminho": "paper/paper_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 69,
+      "sha256": "d999f336231eaa186114e58c6b23cadebbe24928848512113f525d524bbd0a40",
+      "dhash": "0001011100010011100010111000001011000010110011100110011001110000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "paper_002",
+      "classe": "paper",
+      "caminho": "paper/paper_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 102,
+      "altura": 74,
+      "sha256": "01388661188186f7ddea7cddfd981cb19ff0f5114c4880cbfed4c737930749f9",
+      "dhash": "0001000000010000000100000001000000101000001100000000110100000100",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 8,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "paper_003",
+      "classe": "paper",
+      "caminho": "paper/paper_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 95,
+      "sha256": "dbdbc30723abd58831a5db924734758f6d806a3f48884460b7f66e4d1b8dda42",
+      "dhash": "0010100101011010100001100010110010011001111000110111000000111001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "paper_004",
+      "classe": "paper",
+      "caminho": "paper/paper_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 99,
+      "altura": 94,
+      "sha256": "dbcb040052ffd168ca39b54cb82ebccc45ecb64cd0dcf7a3f3a3cee38323bd0e",
+      "dhash": "1000010000100110000010100000100100110001010110010001110111000101",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "plastic_001",
+      "classe": "plastic",
+      "caminho": "plastic/plastic_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 73,
+      "sha256": "299ca5c91b40d64173eed4393df7484c68fac6a13a9eb8159e837e514c8629a6",
+      "dhash": "0011011110011001000111000111100101111011011011010010111100011001",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "plastic_002",
+      "classe": "plastic",
+      "caminho": "plastic/plastic_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 93,
+      "altura": 72,
+      "sha256": "503ceccb9e69ea90123a66c8a3392f60c5ca5993c5ad1f0fd976f856b87220c1",
+      "dhash": "0001001100110011101100111001001000010110100111111000111101001110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 12,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "plastic_003",
+      "classe": "plastic",
+      "caminho": "plastic/plastic_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 92,
+      "sha256": "307d716e35b82c5a6dd4ef07c8560e08f84b26808bab4529d778990c57d6b915",
+      "dhash": "1010011111011100011110001010010011100100111110000011000110100101",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "plastic_004",
+      "classe": "plastic",
+      "caminho": "plastic/plastic_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 97,
+      "altura": 93,
+      "sha256": "9ecea54a59f194d2d56b2103a8b90ff6cb2f738a99650d2d48fc4c1212ea6490",
+      "dhash": "0010011001100111011000110010000100110001100111011000111101001110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "shoes_001",
+      "classe": "shoes",
+      "caminho": "shoes/shoes_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 115,
+      "altura": 72,
+      "sha256": "d350826b6f45540edd5ad4d311cf7cd75e85e26f925f16a920e06e8f797d0df2",
+      "dhash": "1010010010111100011111001101111010101110101100111100110111000000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "shoes_002",
+      "classe": "shoes",
+      "caminho": "shoes/shoes_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 96,
+      "altura": 72,
+      "sha256": "99eb2f9a3b122b9be52edeb8dca0aeb3d4fbeb0f5cbf1220763c0136ce508655",
+      "dhash": "1011011000111000001001111111010011100000110001001000010010100000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "shoes_003",
+      "classe": "shoes",
+      "caminho": "shoes/shoes_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 114,
+      "altura": 84,
+      "sha256": "26abddfb95a21d7937c722e3eaf593f698d8a12a4fc4aaca568b9152e4891eab",
+      "dhash": "1101100111011110011111101111111111111100111100001100000011000000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 13,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "shoes_004",
+      "classe": "shoes",
+      "caminho": "shoes/shoes_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 100,
+      "altura": 91,
+      "sha256": "318dec82f0fb69e0a4d9d181966c84221500afe0d041bd3e06401cbc1cb45544",
+      "dhash": "0001011000101100100100101110100100110110000111001001100011000011",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "trash_001",
+      "classe": "trash",
+      "caminho": "trash/trash_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 73,
+      "sha256": "71b06031168deff41ba0cb7c920e7c9b6cae750c8b67c70b6a3461876c2ff535",
+      "dhash": "1100100100000001000010111000111010011010100101110100011101100101",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 16,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "trash_002",
+      "classe": "trash",
+      "caminho": "trash/trash_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 103,
+      "altura": 72,
+      "sha256": "490e9c4e99bbf86262cf655cbb29f7c1e3934128e49cc23e42d36800037ab243",
+      "dhash": "0001001100100111010011100001110101011011011000110010011110011110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "trash_003",
+      "classe": "trash",
+      "caminho": "trash/trash_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 112,
+      "altura": 94,
+      "sha256": "e4062d69e680c3f696e2f6dd0d692a11d7f3a10d51c5851c7b9a0cfa92e2bdb9",
+      "dhash": "1010001101100110001110110011110100111010000111100001010110110000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "trash_004",
+      "classe": "trash",
+      "caminho": "trash/trash_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 103,
+      "altura": 95,
+      "sha256": "f4cb71a98f1e68d508e19b5e96543e3d49a85b41a38a72de9be42a90d4af0704",
+      "dhash": "0111010001110001000011010001011000101111000011111001011000110010",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 14,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "white-glass_001",
+      "classe": "white-glass",
+      "caminho": "white-glass/white-glass_1.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 73,
+      "sha256": "e708f5f3c263c540ebee0ebf459f7608032d3f117b0a8707ba8876b323b556f8",
+      "dhash": "0100110001011100000111010010110100101101001101010000110101011000",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 12,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "white-glass_002",
+      "classe": "white-glass",
+      "caminho": "white-glass/white-glass_2.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 73,
+      "sha256": "1d2669d64bb8748517c7a0fe3ba8ae956227722cee470c9c02ce07cb306268f1",
+      "dhash": "1111111011011100010001000100100001001000011010000110100011001110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 11,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "white-glass_003",
+      "classe": "white-glass",
+      "caminho": "white-glass/white-glass_3.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 110,
+      "altura": 82,
+      "sha256": "c5e0c9462520764d74992f6eed9f25b35ef685f5eb264b52c0c54e2248605c22",
+      "dhash": "1110011000011010001001100000010111001101010010110110100110000110",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 17,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    },
+    {
+      "id": "white-glass_004",
+      "classe": "white-glass",
+      "caminho": "white-glass/white-glass_4.png",
+      "origem": "fornecida_pela_equipe",
+      "revisada": false,
+      "revisado_por": null,
+      "data_revisao": null,
+      "observacoes": "Recortada de ferramentas/fonte_imagens/grade_48_imagens.webp (ferramentas/recortar_grade.py); rótulo = legenda da grade.",
+      "largura": 111,
+      "altura": 83,
+      "sha256": "57c131b3d3a3b6b0b42a899a32e6bbdca3b4adc4d94d44a7b10284c52b13dc77",
+      "dhash": "0001010000011000010011011001011110001011010011100010011010110010",
+      "verificacao_dataset_original": {
+        "sha256_igual": false,
+        "menor_distancia_dhash": 15,
+        "suspeita_vazamento": false
+      },
+      "usar_para_treino": false
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+As fotografias dos jogos ficam em ../data/imagens_jogos e são servidas pela API em /imagens.

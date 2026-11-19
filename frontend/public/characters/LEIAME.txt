@@ -1,0 +1,1 @@
+Os personagens são componentes SVG em src/components/Personagens.tsx.
