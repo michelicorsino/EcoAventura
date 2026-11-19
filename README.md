@@ -200,7 +200,7 @@ Se o `python3` da sua distribuição for 3.14 ou mais novo, instale também um 3
 **1. Baixe o projeto**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/ecoaventura.git
+git clone https://github.com/michelicorsino/ecoaventura.git
 cd ecoaventura
 ```
 (ou use **Code → Download ZIP** no GitHub e extraia a pasta)
